@@ -25,6 +25,10 @@ Intmor（イントモア）は、InconsolataとMoralerspaceを合成したプロ
 
 ![test](images/readme-4.png)
 
+## 他のフォント
+
+[Infmor（インフモア）](https://github.com/2n/infmor): Fira Mono、Inconsolata、Moralerspaceの合成フォント
+
 ## 免責事項
 
 本フォントは自己責任のもとでご使用ください。本フォントを使用することによって生じた、利用者及び第三者に対する損害等について、本フォントの制作者は一切の責任を負いかねます。
